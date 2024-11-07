@@ -6,7 +6,17 @@ El repositorio se divide en carpetas que contienen 10 subcarpetas con nombre en 
 
 ## Badges
 
+### 50 Days Badge
+
 ![50 Days Badge](./50daysBadge.webp)
+
+### Full September Badge
+
+![Full September Badge](./FullSeptember.webp)
+
+### Full October Badge
+
+![Full October Badge](./FullOctober.webp)
 
 ## Readmes
 
@@ -23,3 +33,5 @@ A continuación se muestran links con las descripciones de los problemas agrupad
 5- [Problemas del 41 al 50](./day41-50/Description41-50.md)
 
 6- [Problemas del 51 al 60](./day51-60/Description51-60.md)
+
+7- [Problemas del 61 al 70](./day61-70/Description61-70.md)
