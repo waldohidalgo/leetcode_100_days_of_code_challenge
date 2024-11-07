@@ -35,3 +35,5 @@ A continuación se muestran links con las descripciones de los problemas agrupad
 6- [Problemas del 51 al 60](./day51-60/Description51-60.md)
 
 7- [Problemas del 61 al 70](./day61-70/Description61-70.md)
+
+8- [Problemas del 71 al 80](./day71-80/Description71-80.md)
